@@ -6,6 +6,7 @@ import android.util.Log
 /*************************************************************************************/
 
 private val tag = "tttest"
+  val test1 = "test111"
 fun lllogI(str: String?) {
     Log.i(tag, str?:"none")
 }
