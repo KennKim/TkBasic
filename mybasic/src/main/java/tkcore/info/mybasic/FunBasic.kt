@@ -40,7 +40,6 @@ fun lllogE(str: String?) {
 
 
 
-//
 ///**
 // * Toast 날리고나서 true도 날려줄 때.
 // */
